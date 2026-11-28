@@ -15,9 +15,10 @@
 | 1 | [What is Programming](lessons/01-what-is-programming) | [يوتيوب](https://youtu.be/uh1EDLo8qHg) | لا |
 | 2 | [Problem Solving](lessons/02-problem-solving) | [يوتيوب](https://youtu.be/K6eDdQ-fS_k) | لا |
 | 3 | [Algorithm](lessons/03-algorithm) | [يوتيوب](https://youtu.be/K-OFADwP4X0) | لا |
-| 4 | [Flowchart](lessons/04-flowchart) | [يوتيوب](https://youtu.be/K_OvxoXEeGk) (بيتنشر قريب) | لا |
+| 4 | [Flowchart](lessons/04-flowchart) | [يوتيوب](https://youtu.be/K_OvxoXEeGk) | لا |
+| 5 | [Pseudocode](lessons/05-pseudocode) | [يوتيوب](https://youtu.be/qIZgCwMRMjI) | لا |
 
-الدرس الجاي: Pseudocode.
+الدرس الجاي: Programming Languages.
 
 ## إزاي تستخدم الريبو
 
