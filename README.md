@@ -17,8 +17,9 @@
 | 3 | [Algorithm](lessons/03-algorithm) | [يوتيوب](https://youtu.be/K-OFADwP4X0) | لا |
 | 4 | [Flowchart](lessons/04-flowchart) | [يوتيوب](https://youtu.be/K_OvxoXEeGk) | لا |
 | 5 | [Pseudocode](lessons/05-pseudocode) | [يوتيوب](https://youtu.be/qIZgCwMRMjI) | لا |
+| 6 | [Programming Languages & Source Code](lessons/06-programming-languages) | [يوتيوب](https://youtu.be/nDNcmwz5jqo) | لا |
 
-الدرس الجاي: Programming Languages.
+الدرس الجاي: Compiler vs Interpreter.
 
 ## إزاي تستخدم الريبو
 
